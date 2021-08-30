@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Algorithms at my final class in Georgia Tech's OMSCS program
+- 📫 How to reach me: zgoldman3@gatech.edu
+- 💬 Ask me about the books I'm currently reading
+
 <!--
 **ZGoldman8/ZGoldman8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
